@@ -56,6 +56,8 @@ print(f"A^1_{{90:2|}} = {epv_term_insurance:.5f}")
 epv_annuity = calc.whole_life_annuity_due(x=90)
 print(f"a_due_{{90}} = {epv_annuity:.5f}")
 
+```
+
 
 🗺️ Project Roadmap
 The following features are planned for future development:
