@@ -58,8 +58,8 @@ print(f"a_due_{{90}} = {epv_annuity:.5f}")
 
 ```
 
-
-🗺️ Project Roadmap
+---
+## 🗺️ Project Roadmap
 The following features are planned for future development:
 
 [ ] Streamlit User Interface: Develop an interactive web app to use the calculator.
